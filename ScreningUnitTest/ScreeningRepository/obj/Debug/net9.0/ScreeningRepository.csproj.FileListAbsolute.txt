@@ -1,0 +1,11 @@
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\bin\Debug\net9.0\ScreeningRepository.deps.json
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\bin\Debug\net9.0\ScreeningRepository.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\bin\Debug\net9.0\ScreeningRepository.pdb
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\ScreeningRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\ScreeningRepository.AssemblyInfoInputs.cache
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\ScreeningRepository.AssemblyInfo.cs
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\ScreeningRepository.csproj.CoreCompileInputs.cache
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\ScreeningRepository.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\refint\ScreeningRepository.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\ScreeningRepository.pdb
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningRepository\obj\Debug\net9.0\ref\ScreeningRepository.dll

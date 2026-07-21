@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65B6DDA3-B238-404D-A250-E05545A47F88}|ScreeningService\\ScreeningService.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningservice\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B6DDA3-B238-404D-A250-E05545A47F88}|ScreeningService\\ScreeningService.csproj|solutionrelative:screeningservice\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningrepository\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|solutionrelative:screeningrepository\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningrepository\\repository\\interface\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|solutionrelative:screeningrepository\\repository\\interface\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningrepository\\repository\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|solutionrelative:screeningrepository\\repository\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B6DDA3-B238-404D-A250-E05545A47F88}|ScreeningService\\ScreeningService.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningservice\\service\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B6DDA3-B238-404D-A250-E05545A47F88}|ScreeningService\\ScreeningService.csproj|solutionrelative:screeningservice\\service\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningrepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EC0564-17AE-439D-9146-BBEE732550FA}|ScreeningRepository\\ScreeningRepository.csproj|solutionrelative:screeningrepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B6DDA3-B238-404D-A250-E05545A47F88}|ScreeningService\\ScreeningService.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B6DDA3-B238-404D-A250-E05545A47F88}|ScreeningService\\ScreeningService.csproj|solutionrelative:screeningservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5A12A-6995-4493-9234-ABD172720F9D}|ScreeningUnitTestProject\\ScreeningUnitTestProject.csproj|c:\\users\\dineshkumar.d\\source\\repos\\screningunittest\\screeningunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF5A12A-6995-4493-9234-ABD172720F9D}|ScreeningUnitTestProject\\ScreeningUnitTestProject.csproj|solutionrelative:screeningunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningService\\Service\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "ScreeningService\\Service\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningService\\Service\\UserNotFoundException.cs",
+              "RelativeToolTip": "ScreeningService\\Service\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:06:12.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Repository\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ScreeningRepository\\Repository\\Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Repository\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "ScreeningRepository\\Repository\\Interface\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:03:28.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Repository\\Interface\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "ScreeningRepository\\Repository\\Interface\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Repository\\Interface\\IPasswordHasher.cs",
+              "RelativeToolTip": "ScreeningRepository\\Repository\\Interface\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:03:10.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ScreeningRepository\\Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "ScreeningRepository\\Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:00:32.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Class1.cs",
+              "RelativeDocumentMoniker": "ScreeningRepository\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningRepository\\Class1.cs",
+              "RelativeToolTip": "ScreeningRepository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:59:10.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningService\\Service\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "ScreeningService\\Service\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningService\\Service\\UserAccountService.cs",
+              "RelativeToolTip": "ScreeningService\\Service\\UserAccountService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:55:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningService\\Class1.cs",
+              "RelativeDocumentMoniker": "ScreeningService\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningService\\Class1.cs",
+              "RelativeToolTip": "ScreeningService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:55:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningUnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ScreeningUnitTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Dineshkumar.D\\source\\repos\\ScreningUnitTest\\ScreeningUnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "ScreeningUnitTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:54:20.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

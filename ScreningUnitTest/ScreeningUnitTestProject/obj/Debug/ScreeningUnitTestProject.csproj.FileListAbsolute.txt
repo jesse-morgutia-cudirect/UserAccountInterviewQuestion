@@ -1,0 +1,15 @@
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\ScreeningUnitTestProject.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\ScreeningUnitTestProject.pdb
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\obj\Debug\ScreeningUnitTestProject.csproj.AssemblyReference.cache
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\obj\Debug\ScreeningUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\obj\Debug\Screenin.09F28ED0.Up2Date
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\obj\Debug\ScreeningUnitTestProject.dll
+C:\Users\Dineshkumar.D\source\repos\ScreningUnitTest\ScreeningUnitTestProject\obj\Debug\ScreeningUnitTestProject.pdb

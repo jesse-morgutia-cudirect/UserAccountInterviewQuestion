@@ -264,5 +264,60 @@ namespace UserAccountServiceTest
             Assert.AreEqual(32, capturedToken.Length);
             await email.Received(1).SendPasswordResetEmailAsync(testEmail, Arg.Any<string>());
         }
+
+        // Additional positive tests for Rule 1: multiple valid email formats should succeed
+        [TestMethod]
+        public async Task RegisterAsync_MultipleValidEmails_Succeed()
+        {
+            var validEmails = new[]
+            {
+                "simple@example.com",
+                "very.common@example.com",
+                "disposable.style.email.with+symbol@example.com",
+                "other.email-with-hyphen@example.com",
+                "user.name+tag+sorting@example.com",
+                "x@example.com",
+                "example-indeed@strange-example.com",
+                "admin@mailserver2.example.com",
+                "example@s.example",
+                "user_name@example.co.uk"
+            };
+
+            foreach (var testEmail in validEmails)
+            {
+                var userRepository = Substitute.For<IUserRepository>();
+                var hasher = Substitute.For<IPasswordHasher>();
+                var email = Substitute.For<IEmailService>();
+
+                var testPassword = "validpass123";
+                var hashed = "h-" + testEmail;
+
+                userRepository.GetByEmailAsync(testEmail).Returns(Task.FromResult<User?>(null));
+                hasher.Hash(testPassword).Returns(hashed);
+
+                User? savedUser = null;
+                userRepository
+                    .When(r => r.SaveAsync(Arg.Any<User>()))
+                    .Do(ci => { savedUser = ci.Arg<User>(0); });
+
+                email.SendWelcomeEmailAsync(testEmail).Returns(Task.CompletedTask);
+
+                var svc = new UserAccountService.UserAccountService(userRepository, hasher, email);
+
+                var result = await svc.RegisterAsync(testEmail, testPassword);
+
+                Assert.IsNotNull(result, $"Result null for {testEmail}");
+                Assert.IsTrue(result.Success, $"Expected success for '{testEmail}'");
+                Assert.IsNotNull(savedUser, $"SaveAsync not called for {testEmail}");
+                Assert.AreEqual(testEmail, savedUser.Email, $"Email mismatch for {testEmail}");
+                Assert.AreEqual(hashed, savedUser.PasswordHash, $"PasswordHash mismatch for {testEmail}");
+                Assert.IsFalse(string.IsNullOrEmpty(savedUser.Id), $"Id empty for {testEmail}");
+                Assert.AreEqual(savedUser.Id, result.UserId, $"UserId mismatch for {testEmail}");
+
+                hasher.Received(1).Hash(testPassword);
+                await userRepository.Received(1).SaveAsync(Arg.Is<User>(u => u.Email == testEmail && u.PasswordHash == hashed && !string.IsNullOrEmpty(u.Id)));
+                await email.Received(1).SendWelcomeEmailAsync(testEmail);
+            }
+        }
     }
 }

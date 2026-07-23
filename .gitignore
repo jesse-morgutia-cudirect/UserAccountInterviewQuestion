@@ -1,0 +1,146 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+Build/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Publish
+publish/
+wwwroot/uploads/
+wwwroot/logs/
+
+# Logs
+logs/
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# SQL Server
+*.bak
+
+# IIS Express
+iisexpress/
+
+# Azure
+PublishProfiles/
+*.publishsettings
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment Files
+.env
+.env.*
+!.env.example
+
+# Secrets
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+
+# Certificates
+*.pfx
+*.pem
+*.key
+*.crt
+
+# Node (if React/Angular frontend exists)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Generated Files
+Generated/
+generated/
+
+# Coverage
+coverage/
+coverage-report/
+
+# SonarQube
+.sonarqube/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.pid
+
+# JetBrains
+*.DotSettings
+
+# Visual Studio Code Extensions
+.history/
+
+# Docker
+docker-compose.override.yml
+
+# Local Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup Files
+*.bak
+*.backup
+*.old

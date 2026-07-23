@@ -1,4 +1,9 @@
-﻿namespace UserAccountService
+﻿using System.Text.RegularExpressions;
+using UserAccountService.Exception;
+using UserAccountService.Interfaces;
+using UserAccountService.Models;
+
+namespace UserAccountService
 {
     public class UserAccountService
     {
